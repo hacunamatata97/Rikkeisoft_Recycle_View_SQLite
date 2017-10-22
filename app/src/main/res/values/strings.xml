@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rikkeisoft_Recycle_View</string>
+    <string name="action_settings">Settings</string>
+    <string name="fab_add">Add</string>
+    <string name="tv_name">Name:</string>
+    <string name="tv_phone">Phone:</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_save">Save</string>
+    <string name="tv_id">ID:</string>
+    <string name="btn_add_new_user">Add New User</string>
+</resources>
